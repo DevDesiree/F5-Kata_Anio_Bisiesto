@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto/issues"
   },
-  "homepage": "https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto#readme"
+  "homepage": "https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
