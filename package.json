@@ -1,0 +1,22 @@
+{
+  "name": "f5-kata_anio_bisiesto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anioBisiesto.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto.git"
+  },
+  "author": "Desiree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto/issues"
+  },
+  "homepage": "https://github.com/DevDesiree/F5-Kata_Anio_Bisiesto#readme"
+}
